@@ -1,4 +1,4 @@
-# ExpenseTrackerApp
+# ExpenseTracker
 
 Mobile application for keeping track of your expenses developed in a small team consisting of only me and one great teammate.
 
